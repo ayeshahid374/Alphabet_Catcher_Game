@@ -12,16 +12,23 @@ Features
 Controls
 
 Single Player: 
+
 -Arrow keys to move, Shift + Arrow to move faster, ESC to quit
 
 Multiplayer:
+
 -Player 1 (White Box): Arrow keys
+
 -Player 2 (Red Box): A/D keys
+
 -Shift for faster movement, ESC to quit
+
 -Game Over: P to play again, E to exit
 
 How to Play:
 
 -Run in an x86 emulator (like DOSBox) or real hardware.
+
 -Press Enter to start, choose S or M mode.
+
 -Move your box(es) to catch falling letters and reach 10 points before too many misses.
