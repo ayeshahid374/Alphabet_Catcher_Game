@@ -9,13 +9,18 @@ Features
 3. Timer & Difficulty Scaling
 4. Colorful Text-Based Graphics
 
+
 Controls
+
 
 Single Player: 
 
+
 -Arrow keys to move, Shift + Arrow to move faster, ESC to quit
 
+
 Multiplayer:
+
 
 -Player 1 (White Box): Arrow keys
 
@@ -25,7 +30,9 @@ Multiplayer:
 
 -Game Over: P to play again, E to exit
 
+
 How to Play:
+
 
 -Run in an x86 emulator (like DOSBox) or real hardware.
 
